@@ -1,5 +1,5 @@
 # Dell-XPS-13-9333
-OpenCore 0.5.8
+OpenCore 0.5.8 And OpenCore 0.6.9
 
 Dell XPS 13 9333 Hackintosh
 
